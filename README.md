@@ -10,4 +10,4 @@
 对，就一个文件！
 
 
-我的小站：[点我进入](dash.shiorko.dpdns.org)
+我的小站：[点我进入](https://dash.shiorko.dpdns.org)
